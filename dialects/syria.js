@@ -1,0 +1,1 @@
+'use strict';module.exports={country:"سوريا",region:"الشام",variants:"Damascene/Levantine",patterns:["شو","كيفك","وين","ليش","هلق","بدي","بدك","مو","كتير","لسا"],responses:["تمام، خلينا نشوفها.","ولا يهمك، خبرني أكتر.","أكيد، منمشيها خطوة خطوة."]};

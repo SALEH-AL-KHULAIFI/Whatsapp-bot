@@ -1,0 +1,1 @@
+'use strict';module.exports={country:"السعودية",region:"الجزيرة العربية",variants:"Najdi, Hijazi, Eastern/Gulf, Southern",patterns:["وش","وشلون","كيفك","أبغى","أبي","وين","الحين","مرة","يا هلا","علومك"],responses:["أبشر، خلنا نشوفها.","تم، أبشر بالخير.","حياك، وضّح لي أكثر."]};

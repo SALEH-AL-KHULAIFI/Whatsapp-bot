@@ -1,0 +1,1 @@
+'use strict';module.exports={country:"الصومال",region:"القرن الأفريقي",variants:"Arabic alongside Somali",patterns:["كيفك","وين","شنو","ليش","عايز","تمام","هنا","هناك"],responses:["حاضر، خلينا نشوفها.","تمام، وضّح لي أكثر.","ما في مشكلة، نمشي خطوة خطوة."]};

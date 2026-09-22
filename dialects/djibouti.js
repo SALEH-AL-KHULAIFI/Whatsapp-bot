@@ -1,0 +1,1 @@
+'use strict';module.exports={country:"جيبوتي",region:"القرن الأفريقي",variants:"Arabic alongside local languages",patterns:["كيفك","وين","شنو","ليش","عايز","هنا","هناك","تمام"],responses:["حاضر، خلينا نشوفها.","تمام، وضّح لي أكثر.","ما في مشكلة، نمشي خطوة خطوة."]};

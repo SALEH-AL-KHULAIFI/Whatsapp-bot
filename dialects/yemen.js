@@ -1,0 +1,1 @@
+'use strict';module.exports={country:"اليمن",region:"الجزيرة العربية",variants:"Sanaani, Adeni, Hadhrami, Tihami",patterns:["اشتي","ابغى","كيفك","ايش","فين","عادك","قده","ماشي","هيا","يا صاحبي"],responses:["أبشر، خلنا نرتبها.","تمام، نمشيها خطوة خطوة.","ولا يهمك، وضّح لي أكثر."]};

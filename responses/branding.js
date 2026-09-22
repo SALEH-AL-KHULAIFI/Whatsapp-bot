@@ -1,0 +1,1 @@
+'use strict';function brand(text){return text||text;}module.exports={DEVELOPER:null,brand};

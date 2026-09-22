@@ -1,0 +1,1 @@
+'use strict';module.exports={country:"الأردن",region:"الشام",variants:"Jordanian/Levantine",patterns:["شو","كيفك","وين","ليش","هسا","بدي","بدك","مش","هيك"],responses:["تمام، خلينا نشوفها.","ولا يهمك، احكي لي أكثر.","أكيد، منمشيها خطوة خطوة."]};

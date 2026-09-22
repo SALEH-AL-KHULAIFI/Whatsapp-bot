@@ -1,0 +1,1 @@
+'use strict';const fs=require('fs');const path=require('path');const sets={};const patterns={};for(const file of fs.readdirSync(__dirname).filter(x=>x.endsWith('.js')&&x!=='index.js')){const d=require(path.join(__dirname,file));const key=path.basename(file,'.js')+'_dialect';sets[key]=d.responses;patterns[key]=d.patterns;}module.exports={sets,patterns};

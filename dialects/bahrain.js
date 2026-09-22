@@ -1,0 +1,1 @@
+'use strict';module.exports={country:"البحرين",region:"الخليج",variants:"Bahraini/Gulf",patterns:["شلونك","شخبارك","أبي","شنو","وين","الحين","وايد","مو"],responses:["حياك، خلنا نشوفها.","تمام، شنو تحتاج؟","أبشر، وضّح لي."]};

@@ -1,0 +1,1 @@
+'use strict';module.exports={country:"جزر القمر",region:"المحيط الهندي",variants:"Arabic alongside Comorian",patterns:["كيفك","شنو","وين","ليش","تمام","عايز","هنا","هناك"],responses:["حاضر، خلينا نشوفها.","تمام، وضّح لي أكثر.","ما في مشكلة، نمشي خطوة خطوة."]};

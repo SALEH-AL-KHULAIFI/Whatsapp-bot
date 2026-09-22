@@ -1,0 +1,1 @@
+'use strict';const {normalizeText}=require('./normalizer');function matches(text,patterns){const t=normalizeText(text);return(patterns||[]).some(p=>t===normalizeText(p)||t.includes(normalizeText(p)))}module.exports={matches};
